@@ -13,7 +13,7 @@
   "author": "adarsh",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "swagger-ui-express": "^4.0.7"
   }
 }
